@@ -10,4 +10,5 @@ nba_shooting.csv contains all the data used
 # Prerequisites
 
 pip install -r requirements.txt
+
 python 3.8
